@@ -2,8 +2,8 @@
 Image Processing API
 
 # Installation
-- Unzip the project file "My project.zip"
-- Open the folder "My Project" in a browser (Visual Studio Code)
+- Upload the project to your local computer, and name the folder "Image Processing API"
+- Open the folder "Image Processing API" in a browser (Visual Studio Code)
 - Install node modules by typing 'npm i' in the terminal
 - run the server by typing 'npm run start' in the terminal
 The port of the server is the localhost:8080
