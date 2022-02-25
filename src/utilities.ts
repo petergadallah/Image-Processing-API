@@ -2,7 +2,7 @@ import sharp from 'sharp';
 function newpath(photo: unknown, width: unknown, height: unknown): string {
   const newpath = `output/${photo}_${width}_${height}.jpg`;
   return newpath;
-}
+};
 
 const resizing = async (
   photo: unknown,
