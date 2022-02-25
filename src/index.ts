@@ -10,7 +10,7 @@ function listening(): void {
 }
 app.listen(port, listening);
 
-//adding an endpoint which is /images
+// adding an endpoint which is /images
 app.get('/images', routes);
 
 export default app;
