@@ -1,3 +1,4 @@
+``` Files to be ignored by github ```
 /.env
 /node_modules
 /package-lock.json
